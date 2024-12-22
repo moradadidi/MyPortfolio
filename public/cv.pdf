@@ -1,0 +1,3 @@
+// The CV content will be saved as a PDF file in the public directory
+// The content from the provided CV text will be formatted and saved as cv.pdf
+
