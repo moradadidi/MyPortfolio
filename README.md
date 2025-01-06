@@ -6,7 +6,10 @@
 
 A modern, responsive portfolio website built with Next.js, TypeScript, and Tailwind CSS. The site features a dark theme with emerald accents and smooth animations powered by Framer Motion.
 
-this is the preview : ![Portfolio Link](https://9zck0r4xshchuv66.vercel.app/)
+## 🌐 Live Preview
+
+[Check out the live portfolio here!](https://9zck0r4xshchuv66.vercel.app/)
+
 ## ✨ Features
 
 - **Responsive Design**: Fully responsive layout that works on all devices
